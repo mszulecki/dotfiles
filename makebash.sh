@@ -1,5 +1,5 @@
 #!/bin/bash
 
-rcfile=./user/bashrc
+rcfile=./bashrc
 
 yes | cp ${rcfile} ~/.bashrc
