@@ -2,4 +2,4 @@
 
 rcfile=./user/bashrc
 
-yes | cp $(rcfile) ~/.bashrc
+yes | cp ${rcfile} ~/.bashrc
